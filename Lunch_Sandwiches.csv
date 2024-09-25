@@ -1,0 +1,13 @@
+Item,Type of Bagel, Price($) per item,Total Price($) including tax,Ingredients,Calories
+Spicy chicken sandwich,Ciabatta,6.99,7.41,"jalapeno cream cheese, 2  cheddar cheeses, chicken, bacon, onion, jalapenos",620
+Cheesy veg melt,Ciabatta,6.79,7.20,"tomato shmear, 2 swiss cheeses, 2 cheddar cheeses, onion, tomato, spinach",610
+Cheese pizza bagel,plain,6.19,6.56,"tomato sauce, pizza cheese, caesar cheese",450
+Pepperoni pizza bagel,plain,6.49,6.88,"tomato sauce, pizza cheese, caesar cheese, 10 pepperoni slices",540
+Tasty turkey,Asiago,7.49,7.94,"turkey, onion chive, tomato, spinach, lettuce, cucumber",510
+Turk/Bac/Avacado,Ciabatta,7.49,7.94,"turkey, bacon, avacado, tomato shmear, tomato, lettuce",580
+Nova Lox,plain,8.49,9.00,"plain cream cheese, onion, capers, tomato, salmon",500
+Avacado veg out,Sesame,6.99,7.41,"avacado, veggie cream cheese, tomato, onion, spinach, lettuce, cucumber",420
+Albuquerque Turkey,plain,6.99,7.41,"plain cream cheese, 2 cheddar cheeses, green chillies, turkey, bacon, tomato, lettuce",680
+Pepperoni chicken,Ciabatta,7.79,8.26,"2 swiss cheeses, pepperoni, caesar cheese, chicken, onion, spinach, tomato shmear",680
+Turkey & Cheddar,plain,7.19,7.62,"turkey, cheddar cheese, tomato, onion, spinach, lettuce, cucumber",500
+Ham & swiss(deli),Sesame,7.19,7.62,"ham, swiss cheese, tomato, onion, spinach, lettuce, cucumber",500

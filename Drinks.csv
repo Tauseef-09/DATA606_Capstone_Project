@@ -1,0 +1,43 @@
+Item,Price($) per item,Total price($) including tax,Ingredients,Calories
+CB shake vanilla (Medium),5.79,6.14,"cold brew, vanilla syrup, shakemix",350
+CB shake vanilla x(Large),6.09,6.46,"cold brew, vanilla syrup, shakemix",540
+CB shake caramel (Medium),5.79,6.14,"cold brew, caramel syrup, shakemix",390
+CB shake caramel (Large),6.09,6.46,"cold brew, caramel syrup, shakemix",620
+CB shake choc (Medium),5.79,6.14,"cold brew, choclate syrup, shakemix",380
+CB shake choc (Large),6.09,6.46,"cold brew, choclate syrup, shakemix",590
+Cold brew (Medium),4.39,4.65,"cold brew, ice",5
+Cold brew (Large),4.89,5.18,"cold brew, ice",5
+CB vanilla (Medium),4.39,4.65,"cold brew, vanilla syrup",180
+CB vanilla (Large),4.89,5.18,"cold brew, vanilla syrup",310
+CB caramel (Medium),4.39,4.65,"cold brew, caramel syrup",210
+CB caramel (Large),4.89,5.18,"cold brew, caramel syrup",360
+CB chocolate (Medium),4.39,4.65,"cold brew, chocolate syrup",200
+CB chocolate (Large),4.89,5.18,"cold brew, chocolate syrup",340
+CB Hazlenut (Medium),4.39,4.65,"cold brew, hazlenut syrup",180
+CB Hazlenut (Large),4.89,5.18,"cold brew, hazlenut syrup",310
+Strawberry banana smoothie (Medium),5.69,6.03,"strawberry banana syrup, ice",280
+Strawberry banana smoothie (Large),6.29,6.67,"strawberry banana syrup, ice",370
+Mocha choc hot (Medium),5.49,5.82,"choclate syrup, expresso shot, hot milk",350
+Mocha choc hot (Large),5.69,6.03,"choclate syrup, expresso shot, hot milk",420
+Caramel Macchiato hot (Medium),5.99,6.35,"caramel syrup, expresso shot, hot milk",370
+Caramel Macchiato hot (Large),6.19,6.56,"caramel syrup, expresso shot, hot milk",420
+Latte hot (Medium),4.89,5.18,"expresso shot, hot milk",140
+Latte hot (Large),5.19,5.50,"expresso shot, hot milk",170
+Chai tea latte hot (Medium),4.89,5.18,"chai tea syrup, hot milk",230
+Chai tea latte hot (Large),5.19,5.50,"chai tea syrup, hot milk",280
+Hot choc (Medium),4.39,4.65,"choclate syrup, hot milk",120
+Hot choc (Large),4.79,5.08,"choclate syrup, hot milk",220
+Tea hot (Medium),2.39,2.53,"hot water, tea powder dip",2
+Tea hot (Large),3.39,3.59,"hot water, tea powder dip",2
+Mocha choc ice (Medium),5.49,5.82,"choclate syrup, expresso shot, cold milk, ice",240
+Mocha choc ice (Large),5.69,6.03,"choclate syrup, expresso shot, cold milk, ice",390
+Caramel Macchiato ice (Medium),5.99,6.35,"caramel syrup, expresso shot, cold milk, ice",260
+Caramel Macchiato ice (Large),6.19,6.56,"caramel syrup, expresso shot, cold milk, ice",420
+Latte ice (Medium),4.89,5.18,"expresso shot, cold milk, ice",80
+Latte ice (Large),5.19,5.5,"expresso shot, cold milk, ice",140
+Chai tea latte ice (Medium),4.89,5.18,"chai tea syrup, cold milk, ice",140
+Chai tea latte ice (Large),5.19,5.50,"chai tea syrup, cold milk, ice",250
+Ice coffee (Medium),2.99,3.17,"ice coffee, ice",130
+Ice coffee (Large),3.59,3.81,"ice coffee, ice",160
+Coffee Regular,2.99,3.17,coffee with desired flavours,10
+Coffee Large,3.59,3.81,coffee with desired flavours,10
