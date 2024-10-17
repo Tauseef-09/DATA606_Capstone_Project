@@ -1,19 +1,89 @@
 Bagel Type,Options,Cream Cheese/Avacado,Price($) per item,Total price($) including tax,Calories
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Plain Cream Cheese,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Onion Chive,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Veggie Cream Cheese,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Butter,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Peanut Butter,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Plain Cream Cheese,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Onion Chive,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Veggie Cream Cheese,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Butter,3.99,4.23,400
-Ciabatta,Toasted/Not toasted/Extra toasted,Peanut Butter,3.99,4.23,400
-Plain/Asiago/Honey whole wheat/cinnamon/wild blueberry/chocolate/everything/sesame,Toasted/Not toasted/Extra toasted,Avacado,4.19,4.44,350
-Plain only/Asiago only/Honey whole wheat only/cinnamon only/wild blueberry only/chocolate only/everything only/sesame only,Toasted/Not toasted/Extra toasted,Nothing,3.99,4.23,280
+Plain,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+Asiago,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+cinnamon,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+wild blueberry,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+chocolate,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+everything,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+sesame,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Plain Cream Cheese,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Onion Chive,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Jalapeno Cream Cheese,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Veggie Cream Cheese,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Honey Almond Cream Cheese,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Strawberry Cream Cheese,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Butter,3.99,4.23,400
+Ciabatta,Toasted or Not toasted or Extra toasted,Peanut Butter,3.99,4.23,400
+Plain,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+Asiago,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+Honey whole wheat,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+cinnamon,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+wild blueberry,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+chocolate,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+everything,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+sesame,Toasted or Not toasted or Extra toasted,Avacado,4.19,4.44,350
+Plain only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+Asiago only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+Honey whole wheat only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+cinnamon only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+wild blueberry only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+chocolate only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+everything only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280
+sesame only,Toasted or Not toasted or Extra toasted,Nothing,2.29,2.43,280

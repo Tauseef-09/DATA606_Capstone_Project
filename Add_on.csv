@@ -1,16 +1,16 @@
-Add on type,Price($) per item,Total price($) including tax,Calories
-Ciabatta bagel (Gourmet upgrade),0.70,0.74,70
-Add Egg,1.29,1.37,90
-Add Egg white,1.39,1.47,30
-Add Almond milk,0.99,1.05,40
-Add expresso shot,0.99,1.05,3
-Add soy milk,0.99,1.05,16
-Add syrup,0.99,1.05,40
-Add whip cream,0.99,1.05,20
-Dasani water 16.9oz,1.68,1.78,0
-Add Avacado,1.49,1.58,50
-Add cheese 0.5oz(American cheese/cheddar cheese/swiss cheese),0.89,0.94,100
-Add cream cheese(plain/jalapeno/honey almond/strawberry/onion chive/veggie),1.99,2.11,120
-Add Meat(Chicken/Bacon/ Ham/Turkey sausage/Turkey),2.19,2.32,80
-Add 2nd veg(onion/tomato/spinach/lettuce/cucumber/jalapenos),0.99,1.05,15
-Add sauce(chipotle mayo/tomato shmear),0.99,1.05,5
+Add on type,Price($) per item,Total price($) including tax,Calories,Description
+Ciabatta bagel,0.7,0.74,70, Gourmet upgrade
+Add Egg,1.29,1.37,90,Egg
+Add Egg white,1.39,1.47,30,Egg White
+Add Almond milk,0.99,1.05,40,Almond milk
+Add expresso shot,0.99,1.05,3,Expresso shot
+Add soy milk,0.99,1.05,16,Soya Milk
+Add syrup,0.99,1.05,40,Vanilla or Caramel or Chocolate or Hazlewood
+Add whip cream,0.99,1.05,20,Whip cream
+Dasani water 16.9oz,1.68,1.78,0,Water
+Add Avacado,1.49,1.58,50,Avacado
+Add cheese 0.5oz,0.89,0.94,100,American cheese or cheddar cheese or swiss cheese
+Add cream cheese,1.99,2.11,120,plain cream cheese or jalapeno cream cheese  or honey almond cream cheese or strawberry cream cheese or onion chive cream cheese or veggie cream cheese
+Add Meat,2.19,2.32,80,Chicken/Bacon or Ham or Turkey sausage or Turkey
+Add 2nd veg,0.99,1.05,15,onion or tomato or spinach or lettuce or cucumber or jalapenos
+Add sauce,0.99,1.05,5,chipotle mayo suace or roasted tomato shmear
